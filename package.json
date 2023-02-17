@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc-boilerplate",
+  "homepage": "https://yeonny0723.github.io/wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json",
+    "deploy": "gh-pages -d docs"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
