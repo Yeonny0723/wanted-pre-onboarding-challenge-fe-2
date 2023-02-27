@@ -36,13 +36,6 @@ Typescript-exercises 문제를 1-9번까지 풀며 요구사항을 구현하기 
 * [Q7](/typescript-exercises/7.ts) - fix (2023.02.25.)
 * Step8- ready
 * Step9- ready
-* Step10 - ready
-* Step11 - ready
-* Step12 - ready
-* Step13 - ready
-* Step14 - ready
-* Step15 - ready
-
 
 
 ### 요구사항
